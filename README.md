@@ -19,4 +19,7 @@ How to install selenium
 - create  Directory "Features" in src/test/resources
 
 - <img width="315" alt="image" src="https://user-images.githubusercontent.com/102913752/198884743-4cf0234b-42e5-4df8-8117-25a94d0995ae.png">
-- 
+
+<img width="274" alt="image" src="https://user-images.githubusercontent.com/102913752/198886107-081b9a39-cdc5-4950-9a76-82a73a5fe97b.png">
+
+
