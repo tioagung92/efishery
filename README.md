@@ -23,3 +23,5 @@ How to install selenium
 <img width="274" alt="image" src="https://user-images.githubusercontent.com/102913752/198886107-081b9a39-cdc5-4950-9a76-82a73a5fe97b.png">
 
 
+Record automation 
+ https://drive.google.com/file/d/1k0B0ulNF9Qk9Ub05fCqihX7v3u79z0NH/view?usp=sharing
